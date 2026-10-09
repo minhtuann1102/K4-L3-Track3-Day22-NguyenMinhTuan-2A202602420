@@ -2,6 +2,7 @@
 
 **Tên:** Nguyễn Minh Tuấn  
 **Khoá:** A20-K4 (Mã học viên: 2A202602420)  
+**Lớp:** 3A
 **Tier đã chạy:** T4  
 **Ngày:** 2026-10-08  
 
